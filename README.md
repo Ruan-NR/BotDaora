@@ -30,6 +30,6 @@ Use /help para saber todos os comandos e suas informações
 Com ele já instalado, as próximas vezes que você for iniciar execute o arquivo bot.py
 
 ## Suporte
-Estou sempre por lá respondendo quem vier, mesmo que esteja meio morto!
+Estou sempre por lá respondendo quem vier, mesmo que esteja meio morto! <img align="right" width="250" height="300" src="markov.png">
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/6p5db3FEqb)](https://discord.gg/6p5db3FEqb)
